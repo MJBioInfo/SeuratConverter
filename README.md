@@ -13,7 +13,7 @@ Install from CRAN-Compatible Source:
 ```r
 
 install.packages(c("Seurat", "Matrix", "hdf5r"))
-devtools::install_github("your_github/SeuratConverter")  # If hosted on GitHub
+devtools::install_github("https://github.com/MJBioInfo/SeuratConverter")
 
 ```
 
