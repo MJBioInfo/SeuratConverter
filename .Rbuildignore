@@ -1,0 +1,12 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.git$
+^\.gitignore$
+^\.Rbuildignore$
+^README\.md$
+^LICENSE$
+^\.DS_Store$
+^\.vscode$
+^tests$
+^docs$
+^data-raw$

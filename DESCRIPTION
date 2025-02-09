@@ -1,0 +1,16 @@
+Package: SeuratConverter
+Title: Bidirectional Conversion Between Seurat and AnnData (H5AD)
+Version: 0.2.0
+Author: Majeed Jamakhani
+Maintainer: Majeed Jamakhani <mjbioinfo@gmail.com>
+Description: Convert Seurat objects to/from AnnData H5AD files using CRAN/Bioconductor dependencies.
+License: MIT + file LICENSE
+Depends:
+    R (>= 4.0.0)
+Imports:
+    Seurat (>= 4.0.0),
+    hdf5r,
+    methods
+Suggests:
+    testthat (>= 3.0.0)
+RoxygenNote: 7.3.2
